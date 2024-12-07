@@ -5,7 +5,6 @@
  * with the ball. The bricks will be drawn in a static position and will have varying colors based on their remaining HP. (white - blue - red)
  */
 
-import java.awt.BasicStroke;
 import java.awt.Color;
 import java.awt.Graphics;
 

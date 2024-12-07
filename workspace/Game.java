@@ -5,10 +5,8 @@
  * Take a look at BrickBreak.java for all the exciting stuff!
  */
 
-import java.awt.*;
-import java.awt.event.*;
+
 import javax.swing.*;
-import java.io.IOException;
 
 public class Game  {
 	public static void main(String[] args) {
