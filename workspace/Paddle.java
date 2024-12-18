@@ -81,7 +81,7 @@ public class Paddle {
 	//other methods:
 
 
-	//Pre-condition: The input/argument must be an int
+	//Pre-condition: none (however, for the ball's velocity to change, add should not be 0)
 	//Post-condition: This method will increase or decrease the value of the velocity
 
 	public void addVelocity(int add){
